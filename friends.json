@@ -1,0 +1,34 @@
+{
+    "friends": [
+        {
+            "name": "稳码付",
+            "url": "https://p.wenfk.com",
+            "avatar": "https://p.wenfk.com/uploads/images/d9wtpas6gd5vfcd7dt.png",
+            "description": "优秀的码支付平台(为智莱云提供支付接口)"
+        },
+        {
+            "name": "迅速云",
+            "url": "https://xunsuyun.com",
+            "avatar": "https://xunsuyun.com/themes/web/www/upload/local682c6dcc30fec.png",
+            "description": "优秀云计算平台"
+        },
+        {
+            "name": "极点云",
+            "url": "https://cloud.jdidc.cn",
+            "avatar": "https://cloud.jdidc.cn/themes/web/www/upload/local68761a6f40afe.jpeg",
+            "description": "优秀云计算平台"
+        },
+        {
+            "name": "林柚云",
+            "url": "https://www.lyvps.net",
+            "avatar": "https://www.lyvps.net/themes/web/www/upload/local680f63397dc62.png",
+            "description": "优秀云计算平台"
+        },
+        {
+            "name": "失控CDN",
+            "url": "https://www.scdn.io",
+            "avatar": "https://www.scdn.io/image/scdnlogo.jpg",
+            "description": "优秀CDN平台"
+        }
+    ]
+}
