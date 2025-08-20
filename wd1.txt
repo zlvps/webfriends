@@ -1,0 +1,10 @@
+{  
+  "data": [  
+    {  
+      "icon": "https://apphd.hyrjk.cn/hy/tp/k4.png",  
+      "link": "https://qm.qq.com/cgi-bin/qm/qr?k=_YUJy6Ojhy0zRAJ-xFP668bTFPQ7AUy4&jump_from=webapi&authKey=5t/XVqjsci4TY0zBI+7Ez6U033AcJSPBV1vn40xbbYZtyMPAaah2bKCwwMH+vH0j",  
+      "title": "官方群-防止丢失务必添加群",  
+      "negative": "点击加入回家的路！"  
+    }
+  ]  
+}
