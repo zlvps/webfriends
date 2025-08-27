@@ -1,0 +1,468 @@
+{
+  "分享内容": "【猪猪软件库】\n软件下载地址（1）\nhttps://wwoj.lanzouu.com/s/fena1\n下载地址（2）\nhttps://wwhf.lanzoup.com/s/fena2\n下载地址（3）\nhttps://wwxs.lanzn.com/s/fena3\n下载地址（4）\nhttps://wwuy.lanzout.com/s/fena4\n下载地址（5）\nhttps://wwzs.lanzoue.com/s/fena5\n（复制链接去浏览器打开）",
+  "群KEY": "https://t.me/zzrjk",
+  "客服QQ": "暂无",
+  "客服微信": "暂无",
+  "启动页图片": "https://y.gtimg.cn/music/photo_new/T054M000000WJakS17XLBb.jpg",
+  "启动页跳转": "https://t.me/zzrjk",
+  "小霸王游戏": "https://www.yikm.net/search?name=",
+"每日早报接口1": "https://api.03c3.cn/api/zb",
+"每日早报接口2": "https://v3.alapi.cn/api/zaobao",
+"每日早报2Token": "fg9i2h68mfgomjr0zjupbvb6syb3eq",
+  "启动页标题": "猪猪软件库",
+  "启动页副标题": "永久免费",
+  "启动页跳转时间": "5",
+  "公告标题": "",
+  "公告内容": "正在修复，大家耐心等待",
+  "公告图片": "",
+  "公告按钮一": "知道了",
+  "公告按钮一跳转": "",
+  "公告按钮二": "知道了",
+  "公告按钮二跳转": "",
+  "公告按钮三": "知道了",
+  "公告按钮三跳转": "",
+  "当前版本": "2.7",
+  "更新标题": "猪猪软件库新版本v2.7",
+  "更新内容": "【1】新版本修复失效线路！\n【2】安装新版本后，是一个新软件！\n【2】如果手机不能安装软件\n请关闭手机网络，把WiFi和流量关了，在去安装软件！\n【3】有任何问题来反馈\n问题反馈网址①zhufk.cc\n问题反馈网址②www.zhufk.cc\n（输入在浏览器打开）",
+  "强制更新": "开启",
+  "更新按钮一": "点击更新",
+  "更新按钮一跳转": "https://wwrx.lanzoum.com/s/zhuxx1",
+  "更新按钮二": "点击更新2",
+  "更新按钮二跳转": "https://wwnc.lanzouq.com/s/zhuxx2",
+  "更新按钮三": "点击更新3",
+  "更新按钮三跳转": "https://wwoj.lanzouw.com/s/zhuxx3",
+  "界面一标题": "首页",
+  "界面一副标题": "欢迎使用猪猪软件库",
+  "首页滚动公告": "【猪猪软件库】全网更新最快的，最好用！",
+  "首页文字": "公告专区",
+  "界面二标题": "软件",
+  "界面二副标题": "免费【破解软件】【全网更新最快】",
+  "界面三标题": "工具",
+  "界面三副标题": "聚合工具箱",
+  "界面四标题": "我的",
+  "界面四副标题": "人生不过三万天，请做个向前冲锋的勇士。",
+  "界面四文字一": "猪猪软件库",
+  "界面四文字二": "v2.7",
+  "界面四文字三": "永久免费52",
+  "界面四选项": [
+    {
+      "标题": "永久地址",
+      "副标题": "一定要收藏起来",
+      "链接": "https://wwa.qzcylog.com/aa1"
+    },
+    {
+      "标题": "合作联系",
+      "副标题": "飞机号@zhuxx",
+      "链接": "https://wwa.qzcylog.com/aa8"
+    },
+    {
+      "标题": "软件反馈",
+      "副标题": "有问题可以反馈",
+      "链接": "https://jsj.top/f/B5ZHel"
+    },
+    {
+      "标题": "飞机频道群",
+      "副标题": "可以搜索@zzrjk",
+      "链接": "https://wwa.qzcylog.com/aa7"
+    }
+  ],
+"软件分类": [
+{
+"标题": "开車软件",
+"任务": "关闭",
+"介绍图": "https://y.gtimg.cn/music/photo_new/T054M000002Z2UwR4GhMR3.jpg",
+"链接": [
+"https://zhurja1-1367210695.cos.ap-beijing.myqcloud.com/rja1.txt",
+"https://zhuyx1.obs.cn-north-4.myhuaweicloud.com/rjka1.txt",
+"https://zhurja2-1367210695.cos.ap-guangzhou.myqcloud.com/rja1.txt"
+],
+"置顶": [
+]
+},
+{
+"标题": "开車游戏",
+"任务": "关闭",
+"介绍图": "",
+"链接": [
+"https://zhurja5-1367210695.cos.ap-beijing.myqcloud.com/yxa3.txt",
+"https://zhuyx1.obs.cn-north-4.myhuaweicloud.com/yxa3.txt",
+"https://zhurja6-1367210695.cos.ap-guangzhou.myqcloud.com/yxa3.txt"
+],
+"置顶": [
+]
+},
+{
+"标题": "VPN软件",
+"任务": "关闭",
+"介绍图": "https://y.gtimg.cn/music/photo_new/T054M000002Z2UwR4GhMR3.jpg",
+"链接": [
+"https://zhurja7-1367210695.cos.ap-beijing.myqcloud.com/vva4.txt",
+"https://zhuyx1.obs.cn-north-4.myhuaweicloud.com/vva4.txt",
+"https://zhurja8-1367210695.cos.ap-guangzhou.myqcloud.com/vva4.txt"
+],
+"置顶": [
+]
+},
+{
+"标题": "影视软件",
+"任务": "关闭",
+"介绍图": "https://y.gtimg.cn/music/photo_new/T054M000002Z2UwR4GhMR3.jpg",
+"链接": [
+"https://zzysa91-1367210695.cos.ap-beijing.myqcloud.com/yinga5.txt",
+"https://zhuyx1.obs.cn-north-4.myhuaweicloud.com/yinga5.txt",
+"https://zzysa92-1367210695.cos.ap-guangzhou.myqcloud.com/yinga5.txt"
+],
+"置顶": [
+]
+}
+],
+"首页轮播图": [
+    {
+      "标题": "猪猪软件库",
+      "图片": "https://y.gtimg.cn/music/photo_new/T054M000000IRoeH3pZyYg.jpg",
+      "链接": "https://t.me/zzrjk",
+"打开方式": "外置"
+    }
+  ],
+  "首页列表": [
+    {
+"标题": "永久地址（1）",
+      "图片": "https://y.gtimg.cn/music/photo_new/T054M000000lhRef2MUOVd.jpg",
+      "链接": "https://wwa.qzcylog.com/aa1",
+"打开方式": "内置"
+    },
+{
+"标题": "永久地址（2）",
+      "图片": "https://y.gtimg.cn/music/photo_new/T054M000001aF6xI2YsVJf.jpg",
+      "链接": "https://wwa.qzcylog.com/aa2",
+"打开方式": "内置"
+    },
+    {
+"标题": "报毒问题（解决办法）",
+      "图片": "https://y.gtimg.cn/music/photo_new/T054M000000IzUYy0T9fWH.jpg",
+      "链接": "https://wwa.qzcylog.com/aa3",
+"打开方式": "内置"
+    },
+    {
+"标题": "软件问题（解决办法）",
+      "图片": "https://y.gtimg.cn/music/photo_new/T054M000002OLhID4DpFt4.jpg",
+      "链接": "https://wwa.qzcylog.com/aa4",
+"打开方式": "内置"
+    },
+{
+"标题": "软件库介绍",
+      "图片": "https://y.gtimg.cn/music/photo_new/T054M000004BK5UP4Pr4Ly.jpg",
+      "链接": "https://wwa.qzcylog.com/aa9",
+"打开方式": "内置"
+    },
+    {
+"标题": "问题反馈",
+      "图片": "https://y.gtimg.cn/music/photo_new/T054M000001524qn4XKHk6.jpg",
+      "链接": "https://jsj.top/f/B5ZHel",
+"打开方式": "内置"
+    }
+  ],
+  "线报列表": [
+
+  ],
+  "通知线报": [
+    {
+      "标题": "工具使用教程",
+      "内容": [
+        {
+          "标题": "工具使用教程",
+          "图片": "https://y.gtimg.cn/music/photo_new/T054M000003Laqyc4MMbG4.jpg",
+          "链接": "https://wwa.qzcylog.com/aa5",
+          "打开方式": "内置"
+        }
+      ]
+    },
+    {
+      "标题": "反馈问题",
+      "内容": [
+        {
+          "标题": "工具反馈",
+          "图片": "https://y.gtimg.cn/music/photo_new/T054M000004CD2cH2KlLO7.jpg",
+          "链接": "https://jsj.top/f/QhIMMF",
+          "打开方式": "内置"
+        },
+        {
+          "标题": "软件反馈",
+          "图片": "https://y.gtimg.cn/music/photo_new/T054M0000043SVrA2wD5mm.jpg",
+          "链接": "https://jsj.top/f/B5ZHel",
+          "打开方式": "内置"
+        }
+      ]
+    },
+    {
+      "标题": "TG飞机",
+      "内容": [
+    {
+"标题": "飞机频道群",
+      "图片": "https://y.gtimg.cn/music/photo_new/T054M000002Ctbg92fwAd9.jpg",
+      "链接": "https://wwa.qzcylog.com/aa7",
+"打开方式": "内置"
+    },
+        {
+          "标题": "猪猪联系方式",
+          "图片": "https://y.gtimg.cn/music/photo_new/T054M000004CZcyQ3niS4u.jpg",
+          "链接": "https://wwa.qzcylog.com/aa8",
+          "打开方式": "内置"
+        }
+      ]
+    }
+],
+  "QQ音乐接口": [
+    {
+      "名称": "解析接口（1）",
+      "网址": "https://api.dragonlongzhu.cn/api/dg_QQmusicflac.php"
+    },
+    {
+      "名称": "解析接口（2）",
+      "网址": "https://www.hhlqilongzhu.cn/api/dg_QQmusicflac.php"
+    }
+  ],
+  "网易云音乐接口": 
+[
+    {
+      "名称": "解析接口1",
+      "key": "Dragon592ABEE60226E4CF70FE74576A862E6F",
+      "网址": "https://sdkapi.hhlqilongzhu.cn/api/dgMusic_wyy"
+    }
+  ],
+"随机美女视频接口": [
+    {
+      "名称": "接口（资源1）",
+      "网址": "https://v2.xxapi.cn/api/meinv"
+    },
+    {
+      "名称": "接口（资源2）",
+      "网址": "https://v2.api-m.com/api/meinv"
+    },
+    {
+      "名称": "接口（资源3）",
+      "网址": "https://api.52vmy.cn/api/video/girl"
+    },
+    {
+      "名称": "接口（资源4）",
+      "网址": "https://api.lolimi.cn/API/xjj/xjj.php"
+    },
+    {
+      "名称": "接口（资源5）",
+      "网址": "https://api.pearktrue.cn/api/random/xjj"
+    },
+    {
+      "名称": "接口（资源6）",
+      "网址": "http://api.yujn.cn/api/zzxjj.php"
+    },
+    {
+      "名称": "接口（资源7）",
+      "网址": "http://api.yujn.cn/api/zzxjj.php"
+    },
+    {
+      "名称": "接口（资源8）",
+      "网址": "http://api.yujn.cn/api/xjj.php"
+    },
+    {
+      "名称": "接口（热舞）",
+      "网址": "http://api.yujn.cn/api/rewu.php"
+    },
+    {
+      "名称": "接口（变装）",
+      "网址": " http://api.yujn.cn/api/bianzhuang.php"
+    },
+    {
+      "名称": "接口（慢摇）",
+      "网址": "http://api.yujn.cn/api/manyao.php"
+    },
+    {
+      "名称": "接口（御姐）",
+      "网址": "https://api.317ak.com/API/sp/yjxl.php"
+    },
+    {
+      "名称": "接口（清纯）",
+      "网址": "http://api.yujn.cn/api/qingchun.php"
+    },
+    {
+      "名称": "接口（JK）",
+      "网址": "http://api.yujn.cn/api/jksp.php"
+    },
+    {
+      "名称": "接口（美腿）",
+      "网址": "http://api.yujn.cn/api/yuzu.php"
+    },
+    {
+      "名称": "接口（萝莉）",
+      "网址": "http://api.yujn.cn/api/luoli.php"
+    },
+    {
+      "名称": "接口（黑丝1）",
+      "网址": " http://api.yujn.cn/api/heisis.php"
+    },
+    {
+      "名称": "接口（黑丝2）",
+      "网址": "https://api.317ak.com/API/sp/hssp.php"
+    },
+    {
+      "名称": "接口（白丝1）",
+      "网址": "http://api.yujn.cn/api/baisis.php"
+    },
+    {
+      "名称": "接口（白丝2）",
+      "网址": "https://api.317ak.com/API/sp/bssp.php"
+    },
+    {
+      "名称": "接口（甜妹1）",
+      "网址": "https://api.52vmy.cn/api/video/girl"
+    },
+    {
+      "名称": "接口（甜妹2）",
+      "网址": "http://api.yujn.cn/api/tianmei.php"
+    },
+    {
+      "名称": "接口（吊带1）",
+      "网址": "http://api.yujn.cn/api/diaodai.php"
+    },
+    {
+      "名称": "接口（吊带2）",
+      "网址": "https://api.317ak.com/API/sp/ddsp.php"
+    }
+  ],
+  "影视大全":[
+    {
+      "名称": "电影",
+      "网址":"https://movie.douban.com/j/search_subjects?tag=电影&page_limit=30&page_start=页数"
+    },
+    {
+      "名称": "综艺",
+      "网址":"https://movie.douban.com/j/search_subjects?tag=综艺&page_limit=30&page_start=页数"
+    },
+    {
+      "名称": "动漫",
+      "网址":"https://movie.douban.com/j/search_subjects?tag=动漫&page_limit=30&page_start=页数"
+    },
+    {
+      "名称": "韩剧",
+      "网址":"https://movie.douban.com/j/search_subjects?tag=韩剧&page_limit=30&page_start=页数"
+    },
+    {
+      "名称": "美剧",
+      "网址":"https://movie.douban.com/j/search_subjects?tag=美剧&page_limit=30&page_start=页数"
+    }
+  ],
+  "影视搜索":
+ [
+    "非凡（1）|https://cj.ffzyapi.com/api.php/provide/vod/",
+    "暴风（2）|https://bfzyapi.com/api.php/provide/vod/",
+    "魔都（3）|https://moduzy.net/api.php/provide/vod/",    "ikun（4）|https://ikunzyapi.com/api.php/provide/vod/",
+    "速播（5）|https://subocaiji.com/api.php/provide/vod/at/json",
+    "（抖音短剧）|https://ww.tyyszy5.com/api.php/provide/vod/",
+    "u酷（6）|https://api.ukuapi88.com/api.php/provide/vod/",
+    "华为（7）|https://cjhwba.com/api.php/provide/vod/",
+    "无尽（8）|https://api.wujinapi.me/api.php/provide/vod/",
+    "量子（9）|https://cj.lziapi.com/api.php/provide/vod/",
+    "最大（10）|https://api.zuidapi.com/api.php/provide/vod/from/zuidam3u8/",
+    "爱旦（11）|https://lovedan.net/api.php/provide/vod/",
+    "豆瓣（12）|https://caiji.dbzy.tv/api.php/provide/vod/from/dbm3u8/at/josn",
+    "极速（13）|https://jszyapi.com/api.php/provide/vod/at/json",
+    "360（14）|https://360zy.com/api.php/provide/vod/at/json"
+  ],
+"小霸王游戏分类": [
+        {
+            "名称": "街机游戏",
+            "网址": "https://www.yikm.net/nes?page=页数&tag=9&e="
+        },
+        {
+            "名称": "FC游戏",
+            "网址": "https://www.yikm.net/nes?page=页数&tag=0&e=0"
+        },
+        {
+            "名称": "GBA游戏",
+            "网址": "https://www.yikm.net/nes?page=页数&tag=&e=2"
+        },
+        {
+            "名称": "SFC游戏",
+            "网址": "https://www.yikm.net/nes?page=页数&tag=&e=5"
+        },
+        {
+            "名称": "NDS游戏",
+            "网址": "https://www.yikm.net/nes?page=页数&tag=&e=7"
+        },
+        {
+            "名称": "MD游戏",
+            "网址": "https://www.yikm.net/nes?page=页数&tag=&e=3"
+        }
+  ],
+  "短视频解析接口": [
+    {
+      "名称": "接口（1）",
+      "网址": "http://47.99.158.118/video-crack/v2/parse",
+      "请求方式": "POST",
+      "请求头": "{}",
+      "请求参数": "{\"content\":\"链接\"}"
+    },
+        {
+            "名称": "接口（2）",
+            "网址": "https://v3.alapi.cn/api/video/url",
+            "请求方式": "GET",
+            "请求头": "{}",
+            "请求参数": "{\"url\":\"链接\", \"token\":\"fg9i2h68mfgomjr0zjupbvb6syb3eq\"}"
+        }
+  ],
+"Q绑查询接口": [
+    {
+      "名称": "接口（维护中）",
+      "网址": "https://m.baidu.com"
+    }
+  ],
+"买家福利秀接口": [
+    {
+      "名称": "接口（资源1）",
+      "网址": "https://v2.xxapi.cn/api/meinvpic"
+    },
+    {
+      "名称": "接口（资源2）",
+      "网址": "https://api.52vmy.cn/api/img/tu/girl"
+    },
+    {
+      "名称": "接口（资源3）",
+      "网址": "http://api.yujn.cn/api/ksxjj.php"
+    },
+    {
+      "名称": "接口（资源4）",
+      "网址": " http://api.yujn.cn/api/xjjtp.php"
+    },
+    {
+      "名称": "接口（资源5）",
+      "网址": " https://v2.api-m.com/api/meinvpic"
+    },
+    {
+      "名称": "接口（黑丝1）",
+      "网址": "https://v2.xxapi.cn/api/heisi"
+    },
+    {
+      "名称": "接口（黑丝2）",
+      "网址": "https://api.317ak.com/API/tp/hstp.php"
+    },
+    {
+      "名称": "接口（白丝1）",
+      "网址": "https://v2.xxapi.cn/api/baisi"
+    },
+    {
+      "名称": "接口（白丝2）",
+      "网址": "https://api.317ak.com/API/tp/bstp.php"
+    },
+    {
+      "名称": "接口（JK1）",
+      "网址": "https://v2.xxapi.cn/api/jk"
+    },
+    {
+      "名称": "接口（JK2）",
+      "网址": " https://api.317ak.com/API/tp/jktp.php"
+    },
+    {
+      "名称": "接口（诱惑）",
+      "网址": "https://api.317ak.com/API/tp/yhtp.php"
+    }
+  ]
+}
