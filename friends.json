@@ -4,7 +4,13 @@
             "name": "稳码付",
             "url": "https://p.wenfk.com",
             "avatar": "https://p.wenfk.com/uploads/images/d9wtpas6gd5vfcd7dt.png",
-            "description": "优秀的码支付平台(为智莱云提供支付接口)"
+            "description": "优秀的码支付平台"
+        },
+        {
+            "name": "JD CodePay",
+            "url": "https://code.miloce.cn",
+            "avatar": "https://code.miloce.cn/Core/Assets/Img/logo.png",
+            "description": "优秀的码支付平台"
         },
         {
             "name": "迅速云",
